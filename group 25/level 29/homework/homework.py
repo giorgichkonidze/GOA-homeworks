@@ -5,5 +5,5 @@ numbers = [10, 27, 34, 43, 54, 65, 76, 87]
 result = even_elements(numbers)
 
 print("")
-print("ლუწ ინდექსებზე მყოფი რიცხვები:", result)
+print("ლუწი რიცხვები:", result)
 print("")

@@ -9,8 +9,7 @@ def ask_password(correct_password):
 
         else:
             print("არასწორი პაროლი. სცადეთ ხელახლა!")
+            
+password = "ზაზუნა123"
 
-
-correct_password = "your_secret_password"
-
-ask_password(correct_password)
+ask_password(password)
