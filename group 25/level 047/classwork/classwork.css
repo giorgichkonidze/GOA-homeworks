@@ -1,0 +1,10 @@
+.div-padding {
+    background-color: lightgrey;
+    padding: 20px; 
+    border: 1px solid rgb(255, 32, 32);
+    width: 200px;
+    height: 100px; 
+}
+p {
+    margin: 25px 50px 75px 100px;
+}
