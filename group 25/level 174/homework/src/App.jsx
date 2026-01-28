@@ -3,11 +3,11 @@ import Button from "./Button"
 function App() {
   return (
     <div className='div1'>
-      <div className='bg-grey-900'>
+      <div className='bg-gray-900'>
 
       </div>
-      <div className='bg-grey-800 '>
-        <img src='../src/assets/avatar-jessica.jpeg'/>
+      <div className='bg-gray-800 '>
+        <img src='../src/assets/avatar-jessica.jpeg' />
         <h1>Jessica Randal</h1>
         <h3>London United Kingdom</h3>
         <h4>"Front-end developer and avid reader."</h4>

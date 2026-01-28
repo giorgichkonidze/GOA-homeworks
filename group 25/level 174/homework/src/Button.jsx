@@ -1,6 +1,6 @@
 function Button({name}) {
     return (
-        <button className="bg-grey-700 text-white font-bold ">{name}</button>
+        <button className="bg-gray-700 text-white font-bold ">{name}</button>
     )
 }
 
