@@ -1,10 +1,10 @@
-import { useState } from "react";
+import { useState } from "react"
 
 function App() {
-  const [count, setCount] = useState(0);
+  const [count, setCount] = useState(0)
 
   const increaseCount = () => {
-    setCount(prevCount => prevCount + 1);
+    setCount(prevCount => prevCount + 1)
   };
 
   return (
@@ -14,7 +14,6 @@ function App() {
       <button onClick={increaseCount}>Add + 1</button>
 
     </div>
-  );
+  )
 }
-
-export default App;x
+export default App
